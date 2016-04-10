@@ -1,0 +1,15 @@
+.messages {
+  padding: 15px;
+  border-radius: 3px;
+  border: 1px rgba(20, 31, 58, 0.89) solid;
+  min-height: 170px;
+  margin-top: 15px;
+  max-height: 241px;
+  list-style: none;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px dotted #B3A9A9;
+}
